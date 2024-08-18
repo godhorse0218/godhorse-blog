@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://godhorse0218.github.io/sitemap.xml
+Sitemap: https://godhorse0218.github.io/godhorse-blog/sitemap.xml
