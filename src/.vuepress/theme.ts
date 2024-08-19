@@ -44,7 +44,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "前端开发者",
         intro: "/intro.html",
       },
       // page meta
@@ -63,7 +63,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "a front end developer",
+        description: "front end developer",
         intro: "/en/intro.html",
       },
       // page meta
