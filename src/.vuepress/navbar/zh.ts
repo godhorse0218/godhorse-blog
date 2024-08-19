@@ -10,14 +10,25 @@ export const zhNavbar = navbar([
       {
         text: "笔记",
         icon: "code",
-        link: "/",
+        link: "",
       }, {
         text: "前端开发",
         children: [
-          "web/",
-          "html/",
-          "css/",
-          "js/",
+          {
+            text: "HTML 教程",
+            icon: "html5",
+            link: "html/",
+          },
+          {
+            text: "CSS 教程",
+            icon: "css3",
+            link: "css/",
+          },
+          {
+            text: "JavaScript 教程",
+            icon: "js",
+            link: "js/",
+          }
         ]
       }
     ]
