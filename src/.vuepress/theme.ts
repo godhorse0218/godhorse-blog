@@ -13,7 +13,9 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  favicon: "/favicon.ico",
+
+  logo: "/logo.svg",
 
   repo: "godhorse0218/godhorse-blog",
 

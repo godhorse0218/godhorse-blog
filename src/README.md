@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /logo.svg
 heroText: God Horse
 heroFullScreen: true
 tagline: Change the world by being yourself.
