@@ -1,1 +1,1 @@
-* 使用 fontawesome-with-brands 图标资源，发现只显示 solid 的图标，不显示 brands 的图标
+* ~~使用 fontawesome-with-brands 图标资源，发现只显示 solid 的图标，不显示 brands 的图标~~ 使用补全icon: fa-brands fa-html5

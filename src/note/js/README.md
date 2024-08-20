@@ -1,7 +1,7 @@
 ---
 date: 2024-8-19
 title: JavaScript 教程
-icon: js
+icon: fa-brands fa-js
 ---
 
 ## JavaScript 教程

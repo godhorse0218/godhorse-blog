@@ -16,17 +16,17 @@ export const zhNavbar = navbar([
         children: [
           {
             text: "HTML 教程",
-            icon: "html5",
+            icon: "fa-brands fa-html5",
             link: "html/",
           },
           {
             text: "CSS 教程",
-            icon: "css3",
+            icon: "fa-brands fa-css3",
             link: "css/",
           },
           {
             text: "JavaScript 教程",
-            icon: "js",
+            icon: "fa-brands fa-js",
             link: "js/",
           }
         ]

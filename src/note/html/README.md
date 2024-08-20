@@ -1,7 +1,7 @@
 ---
 date: 2024-8-19
 title: HTML 教程
-icon: html5
+icon: fa-brands fa-html5
 next: ../css/
 ---
 

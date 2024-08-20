@@ -1,7 +1,7 @@
 ---
 date: 2024-8-19
 title: CSS 教程
-icon: css3
+icon: fa-brands fa-css3
 next: ../js/
 ---
 
