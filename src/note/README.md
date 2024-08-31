@@ -14,4 +14,4 @@ next: ./html/
 * [HTML 教程](./html/README.md)
 * [CSS 教程](./css/README.md)
 * [JavaScript 教程](./js/README.md)
-* [One Game](https://godhorse0218.github.io/godhorse.github.io/Games/game1/index.html)
+* [太空人吃金币](https://godhorse0218.github.io/godhorse.github.io/Games/game1/index.html)
