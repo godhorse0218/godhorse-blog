@@ -24,11 +24,11 @@ export default hopeTheme({
   blog: {
     medias: {
       BiliBili: "https://example.com",
-      Email: "mailto:info@example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      QQ: "https://example.com",
-      Wechat: "https://example.com",
+      Email: "809631004@qq.com",
+      Gitee: "https://gitee.com/godhorses",
+      GitHub: "https://github.com/godhorse0218",
+      QQ: "809631004",
+      Wechat: "",
     },
   },
 
@@ -55,6 +55,9 @@ export default hopeTheme({
       },
     },
 
+    /**
+     * English locale config
+     */
     "/en/": {
       // navbar
       navbar: enNavbar,

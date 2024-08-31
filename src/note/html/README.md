@@ -88,9 +88,6 @@ next: ../css/
 
 * [观鸟网](https://godhorse0218.github.io/godhorse.github.io/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content/index.html)
 
-
-
-
 ## 多媒体与嵌入
 
 ### HTML 中的图片
